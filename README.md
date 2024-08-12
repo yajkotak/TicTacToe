@@ -65,17 +65,17 @@ This project is licensed under the MIT License.
 ### Save and Upload:
 
 1. **Create the File:**
-   - Open a text editor.
-   - Paste the above content.
-   - Save the file as `README.md` in your `TicTacToeGame` folder.
+- Open a text editor.
+- Paste the above content.
+- Save the file as `README.md` in your `TicTacToeGame` folder.
 
 2. **Add the README.md to Git:**
-   - In your terminal, run:
-     ```bash
-     git add README.md
-     git commit -m "Add README.md"
-     git push origin main
-     ```
+- In your terminal, run:
+  ```bash
+  git add README.md
+  git commit -m "Add README.md"
+  git push origin main
+  ```
 
 Now, your `README.md` file will be included in your repository on GitHub.
 
