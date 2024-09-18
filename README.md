@@ -61,23 +61,13 @@ Yaj Kotak (2024)
 
 This project is licensed under the MIT License.
 
+## Contact
 
-### Save and Upload:
+If you have any questions or feedback, you can reach me through the following methods:
 
-1. **Create the File:**
-- Open a text editor.
-- Paste the above content.
-- Save the file as `README.md` in your `TicTacToeGame` folder.
-
-2. **Add the README.md to Git:**
-- In your terminal, run:
-  ```bash
-  git add README.md
-  git commit -m "Add README.md"
-  git push origin main
-  ```
-
-Now, your `README.md` file will be included in your repository on GitHub.
+  <a href="https://www.linkedin.com/in/yajkotak" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Yaj_Kotak-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
 
 
 
