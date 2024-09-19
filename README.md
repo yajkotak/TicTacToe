@@ -9,6 +9,10 @@ Welcome to the **Tic Tac Toe** game! This classic game is built using HTML, CSS,
 - **Sound Effects:** Enjoy the game with click and win sound effects.
 - **Responsive Layout:** The game adapts to different screen sizes, ensuring a great experience on any device.
 
+## 🎨 Screenshot
+
+![Screenshot](./tictactoe.png)
+
 ## 🎨 Aesthetic Colors
 
 The background color changes randomly between a variety of aesthetic colors including:
